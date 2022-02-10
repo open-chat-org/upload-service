@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nguyenhoangnam/.local/share/dev/open-chat/upload-service",
+  "command": "/usr/bin/c++   -std=gnu++11 -o CMakeFiles/upload-exe.dir/src/App.cpp.o -c /home/nguyenhoangnam/.local/share/dev/open-chat/upload-service/src/App.cpp",
+  "file": "/home/nguyenhoangnam/.local/share/dev/open-chat/upload-service/src/App.cpp"
+}
+]
